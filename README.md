@@ -1,9 +1,10 @@
 
 
 Scraper of Death is a web scraper.
-Multiple Scraping Methods
-Requests + BeautifulSoup (fast, lightweight)
-Selenium (JavaScript support, dynamic content)
+Multiple scraping methods.
+Requests + BeautifulSoup — fast, lightweight, static HTML
+Selenium — JavaScript rendering, real Chrome profile support
+Playwright + Stealth — headless scraping with full fingerprint evasion for sites that block conventional scrapers
 Features
 
     CSS selectors XPath queries (Selenium only) Regex patterns
